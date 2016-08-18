@@ -115,7 +115,9 @@ a:focus {
 	width: 100%;
 	min-height: 670px;
 	background-size: cover;
-	background: url('../hero.jpg');
+	background-image: url('../hero.jpg');
+	background-position:50% 50% !important;
+	background-repeat:no-repeat
 }
 
 .textIntro {
